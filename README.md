@@ -12,4 +12,9 @@ testing data is twice this amount)
 Main Files
 </b>
 
+
 XGBoostModelv3.ipynb
+
+<i>
+Note to self - recreate the winning solutions
+</i>
