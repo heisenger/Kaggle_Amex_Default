@@ -1,0 +1,17 @@
+# Data Directory (huge)
+/amex-default-prediction
+
+# Model_Weights
+/Model_Weights/*
+
+# Old
+/Old/*
+
+# oof predictions
+/oof_predictions/*
+
+# Processed_Data
+/Processed_Data/*
+
+# Submission Outputs
+/Submission_Outputs/*
