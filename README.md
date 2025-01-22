@@ -14,7 +14,3 @@ Main Files
 
 
 XGBoostModelv3.ipynb
-
-<i>
-Note to self - recreate the winning solutions
-</i>
